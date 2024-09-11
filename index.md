@@ -11,7 +11,7 @@ You are reading this page likely because your company has bought into Zello stud
 
 Before you begin, make sure you have received an invitation email. If you have not received it, please speak to your manager. 
 
-![invite email](assets/images/invite_email.png)
+![invite email](assets/images/inviteEmail.png)
 
 To start, login via https://www.zellostudio.com/staff/login
 
