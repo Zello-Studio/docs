@@ -36,3 +36,14 @@ notifications when a customer requests.
 ![customer_requests](assets/images/customer_requests.png)
 
 When a request is done, mark them as done. 
+
+## Reset Password
+
+To reset password, click on reset password link given on the login page. After clicking on the link, you will be redirected to the page where you need to enter the registered email with Zello to receive a reset password mail.
+
+![reset_password_home](assets/images/reset_password_home.png)
+
+When you click on the reset password button, you will get a reset password email from Zello.
+
+![reset_password](assets/images/reset_password.png)
+
